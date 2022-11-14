@@ -29,6 +29,3 @@ input.onGesture(Gesture.Shake, function () {
         music.playSoundEffect(music.createSoundEffect(WaveShape.Sine, 4466, 1, 241, 0, 715, SoundExpressionEffect.None, InterpolationCurve.Linear), SoundExpressionPlayMode.UntilDone)
     }
 })
-basic.forever(function () {
-	
-})
